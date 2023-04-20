@@ -6,7 +6,7 @@
     "node": "18.x"
   },
   "scripts": {
-    "tart": "node ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
